@@ -1,0 +1,36 @@
+
+header {
+    text-align: center;
+}
+header img {
+    height:  50px;
+    width: 50px;
+    text-align: center;
+}
+main {
+    margin: auto;
+    width: 900px;
+    text-align: center;
+    font-size: 1rem;
+    font-family: "Roboto", "Arial", sans-serif;;
+}
+main img {
+    border-radius: 24px;
+    width: 900px;
+    text-align: center;
+}
+
+html,
+body {
+    background: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db);
+    height: 100px;
+    width: 100%;
+  }
+  footer {
+    margin: auto;
+    width: 900px;
+    text-align: center;
+}
+p {
+    font-family: "Roboto", "Arial", sans-serif;
+}
